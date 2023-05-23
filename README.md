@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on Lifull Tech VietNam
+**About me**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westermost&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 💼 BackEnd Engineer at Lifull Tech VietNam
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westermost&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- ❤️ I love writing PHP, JS, Python...
+ 
+
+| <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats.vercel.app/api?username=westermost&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westermost&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
