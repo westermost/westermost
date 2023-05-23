@@ -9,5 +9,5 @@
 - ❤️ I love writing PHP, JS, Python...
  
 
-| <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats.vercel.app/api?username=westermost&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westermost&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=westermost&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/westermost"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=westermost&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
